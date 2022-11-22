@@ -1,6 +1,6 @@
-from solarlib.core.BatteryMonitor import BatteryMonitor
-from solarlib.core.renogy_rover import RenogyRover
-from solarlib.core.SolarDatabase import DataBase
+from solarlib.projectClasses.BatteryMonitor import BatteryMonitor
+from solarlib.projectClasses.RenogyRover import RenogyRover
+from solarlib.projectClasses.Database import DataBase
 import datetime
 import time
 

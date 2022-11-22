@@ -1,4 +1,4 @@
-from solarlib.core.renogy_rover import RenogyRover
+from solarlib.projectClasses.RenogyRover import RenogyRover
 
 
 def main():
